@@ -15,7 +15,7 @@ public class Chapter1 {
     /**
      * Path to the resulting PDF file.
      */
-    public static final String RESULT = "results/chapter1/hello.pdf";
+    public static final String RESULT = "results/hello.pdf";
 
     /**
      * Creates a PDF file: hello.pdf
